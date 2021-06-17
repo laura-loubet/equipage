@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400&family=Stint+Ultra+Condensed&display=swap');
 
 /* importing components files */
-@import url("components/card.css");
-@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
 @import url("components/button.css");
 @import url("components/banner.css");
 
@@ -13,7 +13,6 @@ body {
 	font-family: 'Oswald', sans-serif;
 	font-size: 18px;
   	margin: 0px;
-  	background-color: #277baa;
 }
 
 h1,h2,h3 {
